@@ -10,12 +10,12 @@ GitHub Pages: Hosting service
 GitHub Actions: CI/CD automation
 
 ## Folder Structure
-my-static-site/ 
+```my-static-site/ 
    ├── index.html
    ├── style.css
    ├── .github/ │ 
        └── workflows/ │ 
-           └── deploy.yml 
+           └── deploy.yml ```
 
 ## CI/CD Process (Step-by-Step)
 
